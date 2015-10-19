@@ -91,7 +91,7 @@ Step 6: Accounts
 
 #### Generate SSH Key
 
- Inside the web development terminal window, where it says `[Web Dev]` in blue, run the following lines one by one. _important note: the command has backticks (`) not single-quotes ('), either copy and paste the command or if you type it use the key to the left of the 1 to type the backtick in the first line_:
+ Inside the web development terminal window, where it says `[Web Dev]` in blue, run the following lines one by one.  This is one of the few places where copying and pasting is expected.   _Important note: the command has backticks (`) not single-quotes ('), either copy and paste the command or if you type it use the key to the left of the 1 to type the backtick in the first line_:
 
 ```
 eval `ssh-agent -s`
