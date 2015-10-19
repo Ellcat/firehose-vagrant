@@ -138,7 +138,7 @@ git config --global user.name "Your Name"
 
 _We need an amazon developer account for some image storage space on Amazons S3 service (this will cost you nothing)_
 
-* Sign-up and create an account for [Amazon Web Services](http://aws.amazon.com/). Anything we'll do over the weekend will cost you nothing, so don't worry about your credit card being charged.
+* Sign-up and create an account for [Amazon Web Services](http://aws.amazon.com/). Nothing we do in the lessons will cost you anything, so don't worry about your credit card being charged.
 
 
 Step 7: Test
